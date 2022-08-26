@@ -1,0 +1,21 @@
+<resources>
+    <string name="tfe_od_app_name" translation_description="Object Detection demo app [CHAR_LIMIT=40]">DOG Detect</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+  
+    <string name="help_header">Voice Commands</string>
+    <string name="vc1"><b>•</b> Go to Camera/Collision/Home </string>
+    <string name="vc2"><b>•</b> Is there (an object) in front of me </string>
+    <string name="vc3"><b>•</b> What is in front of me</string>
+    <string name="vc4"><b>•</b> Replay tutorial</string>
+    <string name="vc5"><b>•</b> Exit app</string>
+    <string name="vc6"><b>•</b> Help</string>
+
+
+    <string name="wt1"> Say “Replay Tutorial” to hear instructions on how to use the app.</string>
+    <string name="wt2"> Say “Go to camera” to activate the camera </string>
+    <string name="wt3"> Say “Go to collision” to activate collision alerts.</string>
+    <string name="wt4"> Say “Help” to go to the Help Screen and hear all voice commands.</string>
+
+
+
+</resources>
